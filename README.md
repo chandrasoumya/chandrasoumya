@@ -3,7 +3,7 @@
 ## I'm Soumya
 
 ### I LOVE TECHNOLOGY AND CODE
-
+<!--
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m currently learning [Technology or Language]
 - 👯 I’m looking to collaborate on [Type of Projects]
@@ -11,7 +11,7 @@
 - 💬 Ask me about [Topics or Technologies]
 - 📫 How to reach me: [Contact Information]
 - 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact]
+- ⚡ Fun fact: [Interesting Fact] -->
 
 ### Languages and Tools:
 
@@ -20,17 +20,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript%29)
 
 
-<!-- Add more badges from https://shields.io/ -->
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Soumya's GitHub stats">
-</details>
