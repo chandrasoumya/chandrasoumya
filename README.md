@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brown?style=flat-square&logo=javascript%29)
 ![Java](https://img.shields.io/badge/-Java-darkgreen?style=flat-square&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-darkblue?style=flat-square&logoColor=white%29)
+![BlockChain](https://img.shields.io/badge/-BlockChain-violet?style=flat-square&logoColor=white%29)
 
 
 
